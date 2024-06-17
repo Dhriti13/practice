@@ -1,0 +1,37 @@
+From 234bec3a5a12732c2109a92e277048a43358f60a Mon Sep 17 00:00:00 2001
+From: Dhriti Sree Rompicharla <drompich@xhdonkarh41.xilinx.com>
+Date: Mon, 17 Jun 2024 12:57:07 +0530
+Subject: [PATCH 1/2] deleted pattern.txt
+
+---
+ pattern.txt | 18 ------------------
+ 1 file changed, 18 deletions(-)
+ delete mode 100644 pattern.txt
+
+diff --git a/pattern.txt b/pattern.txt
+deleted file mode 100644
+index e6df53a..0000000
+--- a/pattern.txt
++++ /dev/null
+@@ -1,18 +0,0 @@
+-<<<<<<< HEAD
+-Kim namjoon
+-Kim seokjin
+-Min yoongi
+-Jung hoseok
+-Park jimin
+-Kim taehyung
+-Jeon jungkook
+-=======
+-Kim Namjoon
+-Kim seokjin
+-Min yoongi
+-Jung Hoseok
+-Park Jimin
+-Kim taehyung
+-Jeon Jungkook
+-
+->>>>>>> added 3 new files
+-- 
+2.25.1
+

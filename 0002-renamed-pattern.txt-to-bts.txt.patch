@@ -1,0 +1,37 @@
+From ddaa5ff74d5e0b16b3ab5b67b008c45c4cabb8e0 Mon Sep 17 00:00:00 2001
+From: Dhriti Sree Rompicharla <drompich@xhdonkarh41.xilinx.com>
+Date: Mon, 17 Jun 2024 12:55:43 +0530
+Subject: [PATCH 2/4] renamed pattern.txt to bts.txt
+
+---
+ bts.txt | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+ create mode 100644 bts.txt
+
+diff --git a/bts.txt b/bts.txt
+new file mode 100644
+index 0000000..e6df53a
+--- /dev/null
++++ b/bts.txt
+@@ -0,0 +1,18 @@
++<<<<<<< HEAD
++Kim namjoon
++Kim seokjin
++Min yoongi
++Jung hoseok
++Park jimin
++Kim taehyung
++Jeon jungkook
++=======
++Kim Namjoon
++Kim seokjin
++Min yoongi
++Jung Hoseok
++Park Jimin
++Kim taehyung
++Jeon Jungkook
++
++>>>>>>> added 3 new files
+-- 
+2.25.1
+
