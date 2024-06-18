@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Kim namjoon
 Kim seokjin
 Min yoongi
@@ -6,13 +5,4 @@ Jung hoseok
 Park jimin
 Kim taehyung
 Jeon jungkook
-=======
-Kim Namjoon
-Kim seokjin
-Min yoongi
-Jung Hoseok
-Park Jimin
-Kim taehyung
-Jeon Jungkook
 
->>>>>>> added 3 new files
