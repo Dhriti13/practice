@@ -1,4 +1,4 @@
 Hello this is the new employee in amd
 I am an NCG from GITAM university and I live in hyderabad
 This is my first job. Currently working on LINUX. This is my first file 
-LINUX is an open source software developed to be changed according to the user requirement. RT-LINUX is an real time linu system that runs in real time. Installation of RT-LINUX is done by loading the data from USB into the system. Developed by Red Hatlimited
+LINUX is an open source software developed to be changed according to the user requirement. RT-LINUX is an real time linu system that runs in real time. Done the Installation of RT-LINUX is done by loading the data from USB into the system. Developed by Red Hatlimited
